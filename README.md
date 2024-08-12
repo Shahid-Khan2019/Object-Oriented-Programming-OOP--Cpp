@@ -1,4 +1,8 @@
 # Object-Oriented-Programming-OOP--Cpp
+Object-Oriented Programming in C++:
+
+Welcome to my C++ code repository showcasing various examples of Object-Oriented Programming (OOP) concepts. These programs cover essential OOP principles such as classes, objects, constructors, operator overloading, inheritance, encapsulation, dynamic memory allocation, and more. Each code example is designed to demonstrate specific OOP concepts using C++.
+
 
 Introduction:
 
